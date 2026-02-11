@@ -30,3 +30,29 @@ hr-analytics-project/
 │  ├─ hr_analytics_dashboard.pbix
 ├─ .gitignore
 └─ README.md
+
+## 💡 Skills Demonstrated
+
+- **Data Engineering**
+  - Synthetic data generation with Python, Pandas, NumPy, Faker
+  - Writing columnar data to Parquet and loading into SQLite
+  - Designing a schema for HR analytics (employees with demographics, compensation, performance, attrition)
+
+- **Backend Engineering**
+  - Building a REST API with Node.js + Express
+  - Integrating SQLite from Node, writing SQL for HR KPIs (headcount, attrition, comp)
+  - Structuring endpoints for analytics use cases (/api/kpis/overview, /api/attrition/by-department, etc.)
+
+- **Frontend Engineering**
+  - React + Vite setup for a small analytics dashboard
+  - Consuming REST APIs with Axios
+  - Building KPI cards and charts with Recharts
+
+- **Business Intelligence (Power BI)**
+  - Connecting Power BI directly to Parquet as a data source
+  - Creating HR measures in DAX (headcount, attrition rate, avg salary, avg tenure)
+  - Designing multi-page HR dashboards (Overview, Attrition deep dive)
+
+- **End-to-End Project Delivery**
+  - Organizing a multi-folder project for analytics (data, notebooks, backend, frontend, powerbi)
+  - Using Git and GitHub to version and share a complete portfolio project
